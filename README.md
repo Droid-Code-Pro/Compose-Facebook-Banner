@@ -1,10 +1,6 @@
-# compose-facebook-banner
+# Compose Facebook Banner
+### How to implement Facebook Banner ad in compose?
 
-# Compose Admob Banner
-### How to implimet Admob Banner ad in compose?
+Explainer video in English [Youtube Link](https://www.youtube.com/watch?v=ArdiHc9q6FA)
 
-Explainer video in English [Youtube Link](https://www.youtube.com/watch?v=vAlDqS6qj_E)
-
-Explainer video in Hindi [Youtube Link]() Comming soon
-
-[![How to implimet Admob Banner ad in compose?](https://img.youtube.com/vi/vAlDqS6qj_E/0.jpg)](https://www.youtube.com/watch?v=vAlDqS6qj_E)
+[![How to implement Facebook Banner ad in compose?](https://img.youtube.com/vi/ArdiHc9q6FA/0.jpg)](https://www.youtube.com/watch?v=ArdiHc9q6FA)
